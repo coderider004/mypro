@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cal-app/static/css/main.69b36ea3.chunk.css",
+    "main.js": "/cal-app/static/js/main.830031cc.chunk.js",
+    "main.js.map": "/cal-app/static/js/main.830031cc.chunk.js.map",
+    "runtime-main.js": "/cal-app/static/js/runtime-main.0e353f64.js",
+    "runtime-main.js.map": "/cal-app/static/js/runtime-main.0e353f64.js.map",
+    "static/css/2.e051ca46.chunk.css": "/cal-app/static/css/2.e051ca46.chunk.css",
+    "static/js/2.81d7d23f.chunk.js": "/cal-app/static/js/2.81d7d23f.chunk.js",
+    "static/js/2.81d7d23f.chunk.js.map": "/cal-app/static/js/2.81d7d23f.chunk.js.map",
+    "index.html": "/cal-app/index.html",
+    "precache-manifest.461960ed0834c1793c6a36db766868cc.js": "/cal-app/precache-manifest.461960ed0834c1793c6a36db766868cc.js",
+    "service-worker.js": "/cal-app/service-worker.js",
+    "static/css/2.e051ca46.chunk.css.map": "/cal-app/static/css/2.e051ca46.chunk.css.map",
+    "static/css/main.69b36ea3.chunk.css.map": "/cal-app/static/css/main.69b36ea3.chunk.css.map",
+    "static/js/2.81d7d23f.chunk.js.LICENSE.txt": "/cal-app/static/js/2.81d7d23f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e353f64.js",
+    "static/css/2.e051ca46.chunk.css",
+    "static/js/2.81d7d23f.chunk.js",
+    "static/css/main.69b36ea3.chunk.css",
+    "static/js/main.830031cc.chunk.js"
+  ]
+}
